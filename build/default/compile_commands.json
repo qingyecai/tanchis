@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/1Learn/cxx_app/build/default",
+  "command": "E:\\MSYS64\\mingw64\\bin\\cc.exe   -fexec-charset=GBK -finput-charset=UTF-8 -g   -DUNICODE -D_UNICODE -Wall -o CMakeFiles\\cxx_app.dir\\main.c.obj   -c D:\\1Learn\\cxx_app\\main.c",
+  "file": "D:/1Learn/cxx_app/main.c"
+}
+]
